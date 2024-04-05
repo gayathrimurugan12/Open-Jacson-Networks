@@ -22,9 +22,9 @@ Visual components and Python
 ![243261678-323ed3a3-45ed-4559-9012-23d73369af6d](https://github.com/gayathrimurugan12/Open-Jacson-Networks/assets/149365374/d18041ee-c281-4f2d-85ec-2851c35bf8c8)
 
 ## Program
+reg no:212223220024
+name:GAYATHRI M
 ~~~
-DEVELOPED BY : DEEPIKA.J
-REGISTER NO : 212221230016
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
